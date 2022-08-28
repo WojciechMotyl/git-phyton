@@ -14,5 +14,3 @@ for char in string:
         else:
             hash_table[char]=1
 print('Słowa: {}, Litery {}, Freq {}'.format(slowa, litery, hash_table))                
-    
-    
